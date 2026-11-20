@@ -4,7 +4,7 @@
   "description": "TinyClaw with WhatsApp, Discord, and Telegram integration",
   "main": "dist/whatsapp-client.js",
   "scripts": {
-    "build": "tsc",
+    "build": "node init && tsc",
     "whatsapp": "node dist/whatsapp-client.js",
     "discord": "node dist/discord-client.js",
     "telegram": "node dist/telegram-client.js",

@@ -23,4 +23,4 @@ dist/
 .idea/
 *.swp
 
-.env
+config.bat
