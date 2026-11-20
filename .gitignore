@@ -22,4 +22,5 @@ dist/
 # Editor
 .idea/
 *.swp
-config.bat
+
+.env
